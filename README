@@ -1,0 +1,65 @@
+This file contains a tree and a explanation about the files of the project
+
+biblical-texts
+├── AUTHORS
+├── ChangeLog
+├── INSTALL
+├── LICENSE
+├── Makefile
+├── NEWS
+├── README
+├── README.md
+├── TODO
+├── _biblical-texts_complete.sh
+├── doc
+├── include
+│   └── biblical-texts.h
+├── install.sh
+├── lib
+├── man
+│   └── biblical-texts.1
+├── mk
+├── mkall
+├── mkclean
+├── mkd
+├── mkdall
+├── mkdistclean
+├── mkinstall
+├── mkstrip
+├── mkuninstall
+├── src
+│   └── biblical-texts.c
+├── biblical-texts.conf
+└── uninstall.sh
+
+5 directories, 25 files
+
+AUTHORS....................: The name and email of project author
+ChangeLog..................: Changelog of project
+INSTALL....................: Installation guide
+LICENSE....................: License of software
+Makefile...................: Makefile of the project
+NEWS.......................: File content the news about the project
+README.....................: This file containing a explanation about the files of project
+README.md..................: The README of github
+TODO.......................: File containing the TODO of the software
+_biblical-texts_complete.sh: Autocomplete script of the software
+doc........................: Documentation directory
+biblical-texts.h...........: Header file of the library
+install.sh.................: Installation script
+lib........................: Library directory (.so and .a files)
+man/biblical-texts.1.......: A man page of the library and your functions
+mk.........................: A make script
+mkall......................: make all script
+mkclean....................: make clean script
+mkd........................: make debug script
+mkdall.....................: make debug all script
+mkdistclean................: make distclean script
+mkinstall..................: make install script
+mktest.....................: make test script
+mkuninstall................: make uninstall script
+remove_logs.sh.............: script to remove all .log files in current directory
+biblical-texts.c...........: C source file of the library
+biblical-texts.conf........: A .conf example file to use the log library in your C programs
+uninstall.sh...............: Uninstall script of the software
+

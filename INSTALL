@@ -1,0 +1,4 @@
+Installation proccess of biblical-texts
+
+$ sudo ./mkinstall  # Compile and install the software
+
