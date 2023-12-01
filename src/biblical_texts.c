@@ -1842,7 +1842,7 @@ void vPrintBR_BiblicalText(int iIndex)
 
 void vReadConfFile(void)
 {
-  FILE *pfConfFile;
+  FILE *fpConfFile;
   char szLine[2048];
   int iLineLen = sizeof(szLine);
   char *pTok = NULL;
